@@ -6,8 +6,8 @@ module.exports = {
 		frequency: 1, // (in minutes)
 	},
 	urls: [
-		"http://www.agence-environnement-sante.fr/",
-		"http://cotiere-transition.fr/",
+		"https://www.agence-environnement-sante.fr/",
+		"https://cotiere-transition.fr/",
 		"https://grainesdesol-formation.fr",
 		"https://hopandup.fr",
 		"https://rvkom.fr",
@@ -44,6 +44,5 @@ module.exports = {
 		"https://laurentmallavauxphoto.fr",
 		"https://pelerinageslyon.fr",
 		"https://nouveaux-regards.com/",
-
 	]
 };
