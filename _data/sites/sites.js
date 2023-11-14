@@ -1,5 +1,5 @@
 module.exports = {
-	name: "Sites de l'équipe", // optional, falls back to object key
+	name: "Nos sites", // optional, falls back to object key
 	description: "Sites développés par l'équipe et pour l'équipe",
 	options: {
 		runs: 1,
