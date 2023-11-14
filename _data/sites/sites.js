@@ -3,7 +3,7 @@ module.exports = {
 	description: "Sites développés par l'équipe et pour l'équipe",
 	options: {
 		runs: 1,
-		frequency: 60, // (in minutes)
+		frequency: 60 * 23, // (in minutes)
 	},
 	urls: [
 		"https://kromatic.fr",
