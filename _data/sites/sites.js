@@ -9,6 +9,7 @@ module.exports = {
 		"https://kromatic.fr",
 		"https://keeply.fr",
 		"https://charlymaillefaud.fr",
-		"https://romainkoenig.com"
+		"https://romainkoenig.com",
+		"https://sandrinerodrigues.fr/",
 	]
 };
