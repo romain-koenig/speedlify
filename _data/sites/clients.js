@@ -17,7 +17,6 @@ module.exports = {
 		"https://lesoinensoi.fr",
 		"https://vertasouhait.fr",
 		"https://senproprete.fr",
-		"https://coatpet.fr",
 		"https://missorigone.fr",
 		"https://gymclubmulatiere.fr",
 		"https://iletaitunefois-patisserie.fr",
