@@ -20,6 +20,14 @@ module.exports = {
 		"https://missorigone.fr",
 		"https://gymclubmulatiere.fr",
 		"https://iletaitunefois-patisserie.fr",
+		"https://www.openbar.pernod-ricard.io/",
+		"https://maman-blues.fr",
+		"https://www.lagonette.org",
+		"https://pastene-avocat.fr",
+		"https://sweetorchestra.fr",
+		"https://volontairesnature.org",
+		"https://mariedominiquetexier.com",
+
 
 	]
 };
