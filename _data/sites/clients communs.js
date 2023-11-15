@@ -1,6 +1,6 @@
 module.exports = {
 	name: "Sites clients", // optional, falls back to object key
-	description: "Sites de nos clients",
+	description: "Sites gérés par l'équipe",
 	options: {
 		runs: 1,
 		frequency: 60, // (in minutes)
