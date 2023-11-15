@@ -24,9 +24,13 @@ module.exports = {
 		"https://maman-blues.fr",
 		"https://www.lagonette.org",
 		"https://pastene-avocat.fr",
-		"https://sweetorchestra.fr",
 		"https://volontairesnature.org",
-		"https://mariedominiquetexier.com",
+		"https://cofam-allaitement.org",
+		"https://no900.fr/",
+		"https://celinebussy.com",
+		"https://laurentmallavauxphoto.fr",
+		"https://pelerinageslyon.fr",
+		"https://nouveaux-regards.com/",
 
 
 	]
