@@ -1,5 +1,5 @@
 module.exports = {
-	name: "Sites clients", // optional, falls back to object key
+	name: "Sites Keeply", // optional, falls back to object key
 	description: "Sites gérés par Keeply",
 	options: {
 		runs: 1,
