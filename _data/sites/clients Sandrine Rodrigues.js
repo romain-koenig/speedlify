@@ -3,7 +3,7 @@ module.exports = {
 	description: "Sites de nos clients",
 	options: {
 		runs: 1,
-		frequency: 1, // (in minutes)
+		frequency: 60, // (in minutes)
 	},
 	urls: [
 		"https://maman-blues.fr",
